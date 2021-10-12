@@ -1,0 +1,2 @@
+sapi_token = ''
+endpoint = ''
